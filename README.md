@@ -1,20 +1,9 @@
 # hello-world
 This repository is for practicing with the GitHub Flow
 
+## David Hereman ##
+(Added to readme-edits branch)
+* IT professional
+* 20 years' experience as a business and data analyst
+* Pursuing a Master of Data Science
 
-**Detailed description**
-This is what I entered into the readme file after I created the repository.
-
-This Markdown language works the same as in Jupyter.
-
-This is a code snippet:  
-`print("hello-world")`
-
-This is a numbered list:
-1. First item
-2. Second item
-2. Third item
-
-*Different font*
-
-## Heading ##
